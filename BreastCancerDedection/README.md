@@ -1,3 +1,4 @@
-This work is a sample instance of Data science and Machine Learning. 
-The Codes take dirty data from data.csv and making corrections in first part. 
+This work is a sample instance of Data Science and Machine Learning which dedecting breast cancer as malignant or bening. 
+The Codes take dirty data from data.csv and making corrections like writing 1 instead of "I" and 0 instead of "O". Also take mean of the column and write the correct place for to fill in the "None" in first section. 
 Virtualize the correct data for seeing where malignant and bening cancer is collected.
+Now, the data is okay and the properities are visible. So, the code move on to the training and testing phase with 3 different models. Firstly, labels give the models and train with models. the train data is seperated as 80 percent from data.csv. 20 percent stay for testing data. Finally, the different models are tested and according the result random forest is the best in the three models.
